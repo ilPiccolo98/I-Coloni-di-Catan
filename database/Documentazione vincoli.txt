@@ -1,0 +1,150 @@
+- VincoloPartiteGiocatori IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloColonieGiocatore IMPLEMENTATO IN JAVA	
+		
+		
+- VincoloCittaGiocatore	IMPLEMENTATO IN JAVA	
+		
+		
+- VincoloStradeGiocatori IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloTurni IMPLEMENTATO IN PLSQL TRAMITE PROCEDURA
+		
+		
+- VincoloTurniRisorse IMPLEMENTATO IN PLSQL TRAMITE TRIGGER		
+		
+		
+- VincoloScambioPorto IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloCarteSviluppo IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloCancellaPartita IMPLEMENTATO IN PLSQL TRAMITE TRIGGER		
+		
+		
+- VincoloTipoCarteRisorsa IMPLEMENTATO IN SQL		
+		
+		
+- VincoloLanciDadi IMPLEMENTATO IN SQL		
+		
+		
+- VincoloGiocatori IMPLEMENTATO IN SQL		
+		
+		
+- VincoloEsagonoTerreno	IMPLEMENTATO IN SQL	
+		
+		
+- VincoloEsagonoPortoSpec IMPLEMENTATO IN SQL		
+		
+		
+- VincoloColoreGiocatore IMPLEMENTATO IN SQL		
+		
+		
+- VincoloPosizioneEsagono IMPLEMENTATO IN SQL		
+		
+		
+- VincoloMappaDefault IMPLEMENTATO IN PLSQL TRAMITE TRIGGER		
+		
+		
+- VincoloBriganteEsagono IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloBriganteRisorsa IMPLEMENTATO IN PLSQL TRAMITE TRIGGER		
+		
+		
+- VincoloScambioGiocatore IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloEliminaTurno IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloAssegnaPunto IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloCostruzioneColonia IMPLEMENTATO IN PLSQL TRAMITE TRIGGER		
+		
+		
+- VincoloBriganteCavaliere IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloBriganteDadi IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloDadiGiocatore IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloStradeSuccessive IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloStradePrecedenti IMPLEMENTATO IN JAVA		
+		
+		
+- VincoloCittaColonieStradeSucc	IMPLEMENTATO IN JAVA	
+		
+		
+- VincoloCittaColonieStradePrec	IMPLEMENTATO IN JAVA	
+		
+		
+- VincoloEsagoniPartita	IMPLEMENTATO IN PLSQL TRAMITE PROCEDURA	
+		
+		
+- VincoloVerticiLati IMPLEMENTATO PLSQL TRAMITE PROCEDURA		
+		
+		
+- VincoloLatiVertici IMPLEMENTATO IN PLSQL TRAMITE PROCEDURA		
+		
+		
+- VincoloEsagoniVertici IMPLEMENTATO IN PLSQL TRAMITE PROCEDURA		
+		
+		
+- VincoloEsagoniLati IMPLEMENTATO IN PLSQL TRAMITE PROCEDURA		
+		
+		
+- VincoloCarte IMPLEMENTATO IN SQL	
+		
+		
+- VincoloCarteSviluppo IMPLEMENTATO IN SQL		
+		
+		
+- VincoloScambi IMPLEMENTATO IN SQL 		
+		
+		
+- VincoloEsagoni IMPLEMENTATO IN SQL		
+		
+		
+- VincoloEsagoniMare IMPLEMENTATO IN SQL		
+		
+		
+- VincoloEsagoniNumero IMPLEMENTATO IN SQL		
+		
+		
+- VincoloRapportoScambio IMPLEMENTATO IN SQL		
+		
+		
+- VincoloGiroUnicita IMPLEMENTATO IN SQL		
+		
+		
+- VincoloUnicitaColore IMPLEMENTATO IN SQL		
+		
+		
+- VincoloUnicitaNickname IMPLEMENTATO IN SQL		
+		
+		
+- VincoloUnicitaGiocatore IMPLEMENTATO IN SQL		
+		
+		
+- VincoloUnicitaVerticeCittaColonia IMPLEMENTATO IN SQL			
+		
+		
+- VincoloUnicitaLatoStrade IMPLEMENTATO IN SQL		
+		
+		
+- VincoloUnicitaBrigante IMPLEMENTATO IN SQL		
+		
+		
+- VincoloPosizioneColonia IMPLEMENTATO IN SQL		
+		
+		
